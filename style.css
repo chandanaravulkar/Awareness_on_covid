@@ -15,7 +15,7 @@ a {
 }
 
 .heading{
-    background-image: url("/images/backgimg.jpg");
+    background-image: url("images\backgimg.jpg");
     background-repeat:no-repeat ;
     background-size: cover;
     
