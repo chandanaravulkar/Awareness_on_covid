@@ -15,7 +15,7 @@ a {
 }
 
 .heading{
-    background-image: url("covidbg.jpg"); 
+    background: url(covidbg.jpg)
     background-repeat:no-repeat ;
     background-size: cover;
     
