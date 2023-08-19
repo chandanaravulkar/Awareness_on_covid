@@ -7,7 +7,6 @@
     overflow:hidden;
   background-image: url('covidbg.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: 100% 100%;
 }
 
