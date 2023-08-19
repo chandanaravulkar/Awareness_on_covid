@@ -15,7 +15,7 @@ a {
 }
 
 .heading{
-  
+       background-image: url("covidbg.jpg");
     background-repeat:no-repeat ;
     background-size: cover;
     
@@ -672,7 +672,7 @@ ul{
     }
     
     .heading{
-        background-image: url("https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/Coronavirus-illustration-800x1200.jpg");
+     
         background-repeat: no-repeat;
         background-size: cover;
     }
